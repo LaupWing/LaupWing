@@ -14,5 +14,6 @@ Click [here](https://compassionate-volhard-efbf8c.netlify.app/projects) for a sh
 
 Projects Todo:
 
+- [ ] NextJS udemy tutorial (academind)
 - [ ] NextJS with stripe (payment system)
 - [ ] Web 3.0
